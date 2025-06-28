@@ -27,3 +27,9 @@ Backend: Node.js / Flask, Express
 Database: MongoDB / Firebase
 
 ML: Python (NLTK, scikit-learn, or Hugging Face Transformers)
+
+# 🚀 Goal:
+To provide a safe digital space that encourages self-reflection, emotional growth, and mental well-being using technology and AI.
+
+
+
