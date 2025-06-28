@@ -1,5 +1,3 @@
-MindKindness – Web App 
-
 # Description
 
 MindKindness is a full-stack web application designed to promote mental well-being through personalized, AI-driven support.
